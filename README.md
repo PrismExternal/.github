@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="">
+	<img src="https://raw.githubusercontent.com/PrismExternal/.github/main/img/banner00.png">
 </p>
 
 # Disclaimer and Acceptance Statement
