@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="">
+</p>
+
 # Disclaimer and Acceptance Statement
 
 Please read the following disclaimer carefully before proceeding with the installation and use of this software:
