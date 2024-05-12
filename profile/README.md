@@ -15,9 +15,9 @@ Please note that the author does not provide any guarantees or warranties regard
 By accepting this disclaimer, you agree to use this software for personal purposes only and not for any commercial, illegal, or unauthorized activities. You also agree to take full responsibility for your actions while using this software and to comply with all applicable laws and regulations.
 
 If you do not agree with the terms of this disclaimer, please refrain from installing or using this software. <br>
-Sincerely, lemonek.
+Sincerely, lmq.
 
 <hr>
 
-Maintained by [lemonek](https://github.com/lemonekq).
+Maintained by [leq](https://github.com/lemonekq), [lunar]().
 [See MIT License](https://github.com/PrismExternal/.github/blob/main/LICENSE).
