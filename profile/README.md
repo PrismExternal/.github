@@ -19,5 +19,5 @@ Sincerely, lmq.
 
 <hr>
 
-Maintained by [leq](https://github.com/lemonekq), [lunar]().
+Maintained by [lmq](https://github.com/lemonekq), [lunar]().
 [See MIT License](https://github.com/PrismExternal/.github/blob/main/LICENSE).
